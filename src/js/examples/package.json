@@ -1,5 +1,5 @@
 {
-    "name": "@tests/ex",
+    "name": "@pnpmtests/ex",
     "version": "1.0.0",
     "description": "This dir is expected to be built before the dependency resolution",
     "main": "index.js",
