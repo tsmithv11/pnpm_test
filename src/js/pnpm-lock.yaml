@@ -11,8 +11,8 @@ importers:
 
   .:
     dependencies:
-      '@tests/util':
-        specifier: ''
+      '@pnpmtests/util':
+        specifier: workspace:*
         version: link:packages/util
       chalk:
         specifier: 3.0.0
